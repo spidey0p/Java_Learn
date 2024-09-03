@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class ToDoList {
     public static void main(String[] args) {
-        ArrayList<String> todoList = new ArrayList<String>();
+        ArrayList<String> todoList = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
